@@ -22,7 +22,10 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/
+    - .env
 
 flutter_gen:
   assets:
-    - assets/*.pngs
+    - assets/*.png

@@ -7,3 +7,4 @@ export 'package:shared_preferences/shared_preferences.dart';
 export 'package:plantilla_flutter/configure/preferences/app_preferences.dart';
 
 
+export 'package:flutter_dotenv/flutter_dotenv.dart';
