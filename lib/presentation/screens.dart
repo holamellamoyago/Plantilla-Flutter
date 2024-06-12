@@ -1,0 +1,9 @@
+export 'package:plantilla_flutter/presentation/Mobile/mobile_home_screen.dart';
+
+export 'package:plantilla_flutter/presentation/home_screen.dart';
+
+export 'package:shared_preferences/shared_preferences.dart';
+
+export 'package:plantilla_flutter/configure/preferences/app_preferences.dart';
+
+
